@@ -73,7 +73,7 @@ export default {
     },
 
     watch: {
-        //Giam sat cac thay doi cua bien searachText
+        //Giam sat cac thay doi cua bien searchText
         //Bo chon phan tu dang duoc chon trong danh sasch
         searchText() {
             this.activeIndex = -1;
